@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navMonthlyBill"
+            android:icon="@drawable/ic_list_alt_24"
+            android:title="@string/monthly_bill" />
+        <item
+            android:id="@+id/navBillGraph"
+            android:icon="@drawable/ic_auto_graph_24"
+            android:title="@string/bill_graph" />
+    </group>
+</menu>

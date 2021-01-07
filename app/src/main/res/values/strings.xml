@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">JustBills</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="monthly_bill">月度账单</string>
+    <string name="bill_graph">账单图表</string>
+    <string name="slogan">Make life easier</string>
+    <string name="add">添加新账目</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bill_type">账单类型</string>
+    <string name="bill_name_hint">账单名称</string>
 </resources>
